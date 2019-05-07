@@ -1,4 +1,4 @@
-package lesson01;
+package section01;
 
 public class Code05 {
 	
