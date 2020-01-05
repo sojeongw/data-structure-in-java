@@ -1,4 +1,4 @@
-package section02;
+package chapter01.section02;
 
 public class Code17 {
 

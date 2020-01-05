@@ -1,4 +1,4 @@
-package section02;
+package chapter01.section02;
 
 import java.io.File;
 import java.io.FileNotFoundException;

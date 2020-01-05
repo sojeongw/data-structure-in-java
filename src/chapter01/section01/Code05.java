@@ -1,4 +1,4 @@
-package section01;
+package chapter01.section01;
 
 public class Code05 {
 	
